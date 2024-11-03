@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available on [my GitHub](my GitHub)
+- 👨‍💻 All of my projects are available on my GitHub
 
 - 💬 Ask me about **AI in the world of business**
 
